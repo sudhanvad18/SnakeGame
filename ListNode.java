@@ -1,8 +1,4 @@
-/**
- *	A List Node for a singly-linked list.
- *
- *	@author	Mr Greenstein
- */
+
 public class ListNode<E extends Comparable<E>>
 {
 	private E value;  // the element stored in this node
